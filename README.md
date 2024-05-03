@@ -13,6 +13,4 @@
   <img width="45%" style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqra-khan0635&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  alt="iqra-khan0635"/>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=iqra-khan0635&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
